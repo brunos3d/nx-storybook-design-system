@@ -18,7 +18,7 @@ Create a workspace
 npx create-nx-workspace@latest
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/beae7524-c17d-4e00-98fa-19e256fbe491/Untitled.png)
+![image](https://user-images.githubusercontent.com/21183964/177372296-19fe06a9-e6b5-46b6-a748-264dfe93da59.png)
 
 Install [storybook plugin](https://nx.dev/packages/storybook) for nx
 
