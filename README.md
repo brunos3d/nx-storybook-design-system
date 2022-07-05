@@ -51,3 +51,15 @@ nx build-storybook ui
 ```
 
 And these commands will use **@nrwl/storybook:storybook** and **@nrwl/storybook:build executors**.
+
+Generate new components
+
+```bash
+nx g @nrwl/react:component button --project=ui --export
+```
+
+Generate stories for new components
+
+```bash
+nx g @nrwl/react:stories --project=ui
+```
